@@ -1,4 +1,4 @@
-Hi, I’m @Dualwaver
+Hi, I’m André
 - I’m interested in coding
 <!--- 
 - I’m interested in web development
